@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hadinoureddine9&label=Profile%20views&color=0e75b6&style=flat" alt="hadinoureddine9" />
 </p>
-
+<img src="https://github-readme-stats-omega-ruddy-54.vercel.app/api?username=hadinoureddine9&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=1800" />
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hadinoureddine9&no-cache=true" alt="hadinoureddine9" />
