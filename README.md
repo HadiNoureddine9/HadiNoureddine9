@@ -32,4 +32,23 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+  <!-- Add your language/tool icons here -->
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p>
+    <img src="https://streak-stats.demolab.com/?user=hadinoureddine9" />
+
+</p>
+
+<p>
+  <img src="https://github-readme-stats-omega-ruddy-54.vercel.app/api/top-langs?username=hadinoureddine9&layout=compact&cache_seconds=1800" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats-omega-ruddy-54.vercel.app/api?username=hadinoureddine9&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=1800" />
+
 </p>
