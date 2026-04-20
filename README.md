@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [UNRANDOM](https://www.unrandom.io/)
+- 🔭 I'm currently working on [UNRANDOM](https://www.unrandom.io/)
 - 👨‍💻 All of my projects are available at [https://hadi-noureddine.vercel.app/](https://hadi-noureddine.vercel.app/)
 - 📫 How to reach me **hadi.noureddine.9@gmail.com**
 
@@ -32,8 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <!-- (kept your icons exactly as-is, no issue here) -->
-  <!-- you can keep this section unchanged -->
+  <!-- Add your language/tool icons here -->
 </p>
 
 ---
@@ -41,11 +40,11 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hadinoureddine9&show_icons=true&locale=en&count_private=true&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hadinoureddine9&show_icons=true&locale=en&cache_seconds=1800" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadinoureddine9&layout=compact&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadinoureddine9&layout=compact&cache_seconds=1800" />
 </p>
 
 <p>
