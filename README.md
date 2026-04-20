@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadinoureddine9&theme=github-compact" />
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -40,11 +40,11 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hadinoureddine9&show_icons=true&locale=en&cache_seconds=1800" />
+  <img src="https://github-readme-stats-omega-ruddy-54.vercel.app/api?username=hadinoureddine9&show_icons=true&locale=en&count_private=true&cache_seconds=1800" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadinoureddine9&layout=compact&cache_seconds=1800" />
+  <img src="https://github-readme-stats-omega-ruddy-54.vercel.app/api/top-langs?username=hadinoureddine9&layout=compact&cache_seconds=1800" />
 </p>
 
 <p>
