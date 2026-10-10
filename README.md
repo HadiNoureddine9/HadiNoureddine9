@@ -16,7 +16,6 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I'm currently working on [UNRANDOM](https://www.unrandom.io/)
-- 👨‍💻 All of my projects are available at [hadi-noureddine.vercel.app](https://hadi-noureddine.vercel.app/)
 - 📫 Reach me at **hadi.noureddine.9@gmail.com**
 - ⚡ Fun fact: I write code that works on the first try *(sometimes)*
 
